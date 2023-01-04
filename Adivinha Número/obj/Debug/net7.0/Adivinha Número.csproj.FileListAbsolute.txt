@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\Adivinha Número.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\Adivinha Número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\Adivinha Número.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\Adivinha Número.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\Adivinha Número.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\bin\Debug\net7.0\Adivinha Número.exe
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\bin\Debug\net7.0\Adivinha Número.deps.json
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\bin\Debug\net7.0\Adivinha Número.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\bin\Debug\net7.0\Adivinha Número.dll
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\bin\Debug\net7.0\Adivinha Número.pdb
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\Adivinha Número.dll
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\refint\Adivinha Número.dll
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\Adivinha Número.pdb
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\Adivinha Número.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Fixação\Adivinha Número\obj\Debug\net7.0\ref\Adivinha Número.dll

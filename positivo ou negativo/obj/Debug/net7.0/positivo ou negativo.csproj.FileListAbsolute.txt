@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\bin\Debug\net7.0\positivo ou negativo.exe
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\bin\Debug\net7.0\positivo ou negativo.deps.json
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\bin\Debug\net7.0\positivo ou negativo.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\bin\Debug\net7.0\positivo ou negativo.dll
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\bin\Debug\net7.0\positivo ou negativo.pdb
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\positivo ou negativo.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\positivo ou negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\positivo ou negativo.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\positivo ou negativo.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\positivo ou negativo.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\positivo ou negativo.dll
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\refint\positivo ou negativo.dll
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\positivo ou negativo.pdb
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\positivo ou negativo.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Fixação\positivo ou negativo\obj\Debug\net7.0\ref\positivo ou negativo.dll

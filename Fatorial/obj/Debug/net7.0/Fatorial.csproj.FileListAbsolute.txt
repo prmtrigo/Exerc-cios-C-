@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\bin\Debug\net7.0\Fatorial.exe
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\bin\Debug\net7.0\Fatorial.deps.json
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\bin\Debug\net7.0\Fatorial.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\bin\Debug\net7.0\Fatorial.dll
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\bin\Debug\net7.0\Fatorial.pdb
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\Fatorial.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\Fatorial.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\Fatorial.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\Fatorial.dll
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\refint\Fatorial.dll
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\Fatorial.pdb
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\Fatorial.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Fixação\Fatorial\obj\Debug\net7.0\ref\Fatorial.dll

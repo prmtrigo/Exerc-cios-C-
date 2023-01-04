@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\área do círculo.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\área do círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\área do círculo.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\área do círculo.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\área do círculo.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\bin\Debug\net7.0\área do círculo.exe
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\bin\Debug\net7.0\área do círculo.deps.json
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\bin\Debug\net7.0\área do círculo.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\bin\Debug\net7.0\área do círculo.dll
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\bin\Debug\net7.0\área do círculo.pdb
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\área do círculo.dll
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\refint\área do círculo.dll
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\área do círculo.pdb
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\área do círculo.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Fixação\área do círculo\obj\Debug\net7.0\ref\área do círculo.dll

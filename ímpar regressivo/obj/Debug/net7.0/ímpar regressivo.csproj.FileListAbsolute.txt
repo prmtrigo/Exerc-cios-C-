@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\bin\Debug\net7.0\ímpar regressivo.exe
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\bin\Debug\net7.0\ímpar regressivo.deps.json
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\bin\Debug\net7.0\ímpar regressivo.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\bin\Debug\net7.0\ímpar regressivo.dll
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\bin\Debug\net7.0\ímpar regressivo.pdb
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\ímpar regressivo.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\ímpar regressivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\ímpar regressivo.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\ímpar regressivo.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\ímpar regressivo.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\ímpar regressivo.dll
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\refint\ímpar regressivo.dll
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\ímpar regressivo.pdb
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\ímpar regressivo.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Fixação\ímpar regressivo\obj\Debug\net7.0\ref\ímpar regressivo.dll
